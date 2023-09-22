@@ -5,7 +5,7 @@ namespace LearnSQL
 {
     class DB
     {
-        SqlConnection connection = new SqlConnection(@"Data Source=192.168.86.45\LOCALLOGINSERVER;Persist Security Info=True;User ID=root;Password=play49112");
+        SqlConnection connection = new SqlConnection(@"Data Source=192.168.1.1\LOCALLOGINSERVER;Persist Security Info=True;User ID=root;Password=pass");
 
         public void OpenConnection()
         {
