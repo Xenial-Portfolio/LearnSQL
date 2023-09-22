@@ -1,0 +1,17 @@
+F:\VSRepos\VSStudio\Learn C#\LearnSQL\bin\Release\LearnSQL.exe.config
+F:\VSRepos\VSStudio\Learn C#\LearnSQL\bin\Release\LearnSQL.exe
+F:\VSRepos\VSStudio\Learn C#\LearnSQL\bin\Release\LearnSQL.pdb
+F:\VSRepos\VSStudio\Learn C#\LearnSQL\bin\Release\MySql.Data.dll
+F:\VSRepos\VSStudio\Learn C#\LearnSQL\bin\Release\Google.Protobuf.dll
+F:\VSRepos\VSStudio\Learn C#\LearnSQL\bin\Release\BouncyCastle.Crypto.dll
+F:\VSRepos\VSStudio\Learn C#\LearnSQL\bin\Release\Ubiety.Dns.Core.dll
+F:\VSRepos\VSStudio\Learn C#\LearnSQL\bin\Release\Renci.SshNet.dll
+F:\VSRepos\VSStudio\Learn C#\LearnSQL\bin\Release\MySql.Data.xml
+F:\VSRepos\VSStudio\Learn C#\LearnSQL\obj\Release\LearnSQL.csprojAssemblyReference.cache
+F:\VSRepos\VSStudio\Learn C#\LearnSQL\obj\Release\LearnSQL.LoginForm.resources
+F:\VSRepos\VSStudio\Learn C#\LearnSQL\obj\Release\LearnSQL.Properties.Resources.resources
+F:\VSRepos\VSStudio\Learn C#\LearnSQL\obj\Release\LearnSQL.SignUp.resources
+F:\VSRepos\VSStudio\Learn C#\LearnSQL\obj\Release\LearnSQL.csproj.GenerateResource.cache
+F:\VSRepos\VSStudio\Learn C#\LearnSQL\obj\Release\LearnSQL.csproj.CopyComplete
+F:\VSRepos\VSStudio\Learn C#\LearnSQL\obj\Release\LearnSQL.exe
+F:\VSRepos\VSStudio\Learn C#\LearnSQL\obj\Release\LearnSQL.pdb
